@@ -2,11 +2,6 @@ ppp
 wowowowo777
 888 on main
 888 on ppp
-<<<<<<< HEAD
-999 on ppp
 111
 222
-888 on ppp
-=======
 999 on ppp
->>>>>>> e23067f (9)
